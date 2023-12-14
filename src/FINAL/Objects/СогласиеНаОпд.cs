@@ -233,7 +233,6 @@ namespace IIS.FINAL
         public virtual void Отправить()
         {
             // *** Start programmer edit section *** (СогласиеНаОпд.Отправить method implementation)
-
             return;
             // *** End programmer edit section *** (СогласиеНаОпд.Отправить method implementation)
         }

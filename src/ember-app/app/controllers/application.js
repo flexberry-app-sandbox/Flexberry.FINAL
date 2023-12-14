@@ -28,7 +28,7 @@ export default Controller.extend({
             link: 'i-i-s-f-i-n-a-l-организации-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-f-i-n-a-l-организации-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-f-i-n-a-l-организации-l.title'),
-            icon: 'address card',
+            icon: 'file',
             children: null
           }, {
             link: 'i-i-s-f-i-n-a-l-отделы-l',
@@ -40,25 +40,24 @@ export default Controller.extend({
             link: 'i-i-s-f-i-n-a-l-согласие-на-опд-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-f-i-n-a-l-согласие-на-опд-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-f-i-n-a-l-согласие-на-опд-l.title'),
-            icon: 'building',
             children: null
           }, {
             link: 'i-i-s-f-i-n-a-l-график-отпуска-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-f-i-n-a-l-график-отпуска-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-f-i-n-a-l-график-отпуска-l.title'),
-            icon: 'tags',
+            icon: 'calendar',
             children: null
           }, {
             link: 'i-i-s-f-i-n-a-l-должности-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-f-i-n-a-l-должности-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-f-i-n-a-l-должности-l.title'),
-            icon: 'building',
+            icon: 'archive',
             children: null
           }, {
             link: 'i-i-s-f-i-n-a-l-сотрудники-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-f-i-n-a-l-сотрудники-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-f-i-n-a-l-сотрудники-l.title'),
-            icon: 'chart line',
+            icon: 'building',
             children: null
           }]
         }, {
@@ -70,7 +69,7 @@ export default Controller.extend({
             link: 'i-i-s-f-i-n-a-l-расчетный-лист-l',
             caption: i18n.t('forms.application.sitemap.расчетные-документы.i-i-s-f-i-n-a-l-расчетный-лист-l.caption'),
             title: i18n.t('forms.application.sitemap.расчетные-документы.i-i-s-f-i-n-a-l-расчетный-лист-l.title'),
-            icon: 'phone',
+            icon: 'calendar',
             children: null
           }]
         }

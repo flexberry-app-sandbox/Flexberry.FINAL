@@ -240,7 +240,6 @@ namespace IIS.FINAL
         public virtual void Отправить()
         {
             // *** Start programmer edit section *** (РасчетныйЛист.Отправить method implementation)
-
             return;
             // *** End programmer edit section *** (РасчетныйЛист.Отправить method implementation)
         }
