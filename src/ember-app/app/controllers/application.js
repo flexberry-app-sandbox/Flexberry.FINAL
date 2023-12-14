@@ -28,36 +28,36 @@ export default Controller.extend({
             link: 'i-i-s-f-i-n-a-l-организации-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-f-i-n-a-l-организации-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-f-i-n-a-l-организации-l.title'),
-            icon: 'file',
+            icon: 'folder',
             children: null
           }, {
             link: 'i-i-s-f-i-n-a-l-отделы-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-f-i-n-a-l-отделы-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-f-i-n-a-l-отделы-l.title'),
-            icon: 'building',
+            icon: 'briefcase',
             children: null
           }, {
             link: 'i-i-s-f-i-n-a-l-согласие-на-опд-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-f-i-n-a-l-согласие-на-опд-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-f-i-n-a-l-согласие-на-опд-l.title'),
+            icon: 'briefcase',
             children: null
           }, {
             link: 'i-i-s-f-i-n-a-l-график-отпуска-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-f-i-n-a-l-график-отпуска-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-f-i-n-a-l-график-отпуска-l.title'),
-            icon: 'calendar',
             children: null
           }, {
             link: 'i-i-s-f-i-n-a-l-должности-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-f-i-n-a-l-должности-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-f-i-n-a-l-должности-l.title'),
-            icon: 'archive',
+            icon: 'folder open',
             children: null
           }, {
             link: 'i-i-s-f-i-n-a-l-сотрудники-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-f-i-n-a-l-сотрудники-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-f-i-n-a-l-сотрудники-l.title'),
-            icon: 'building',
+            icon: 'folder open',
             children: null
           }]
         }, {
@@ -69,7 +69,7 @@ export default Controller.extend({
             link: 'i-i-s-f-i-n-a-l-расчетный-лист-l',
             caption: i18n.t('forms.application.sitemap.расчетные-документы.i-i-s-f-i-n-a-l-расчетный-лист-l.caption'),
             title: i18n.t('forms.application.sitemap.расчетные-документы.i-i-s-f-i-n-a-l-расчетный-лист-l.title'),
-            icon: 'calendar',
+            icon: 'folder open',
             children: null
           }]
         }
