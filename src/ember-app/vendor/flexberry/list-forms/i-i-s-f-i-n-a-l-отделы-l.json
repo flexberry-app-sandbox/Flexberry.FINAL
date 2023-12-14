@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-f-i-n-a-l-отделы-e",
+  "editForm": "i-i-s-f-i-n-a-l-отделы-e",
+  "external": false,
+  "caption": "Отделы",
+  "name": "IISFINALОтделыL",
+  "className": "ОтделыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-f-i-n-a-l-отделы",
+      "modelProjection": "ОтделыL"
+    }
+  ]
+}

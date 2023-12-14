@@ -1,0 +1,72 @@
+﻿{
+  "applicationCaption": "Модуль КЭДО",
+  "applicationTitle": "FINAL",
+  "items": [
+    {
+      "link": null,
+      "menuName": "кадровые-документы",
+      "caption": "Кадровые документы",
+      "title": "Кадровые документы",
+      "children": [
+        {
+          "link": "i-i-s-f-i-n-a-l-организации-l",
+          "menuName": null,
+          "caption": "Организации",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-f-i-n-a-l-отделы-l",
+          "menuName": null,
+          "caption": "Отделы",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-f-i-n-a-l-согласие-на-опд-l",
+          "menuName": null,
+          "caption": "Согласие на опд",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-f-i-n-a-l-график-отпуска-l",
+          "menuName": null,
+          "caption": "График отпуска",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-f-i-n-a-l-должности-l",
+          "menuName": null,
+          "caption": "Должности",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-f-i-n-a-l-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "расчетные-документы",
+      "caption": "Расчетные документы",
+      "title": "Расчетные документы",
+      "children": [
+        {
+          "link": "i-i-s-f-i-n-a-l-расчетный-лист-l",
+          "menuName": null,
+          "caption": "Расчетный лист",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

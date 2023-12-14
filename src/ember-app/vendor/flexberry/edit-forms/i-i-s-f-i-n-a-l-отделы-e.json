@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Организации",
+      "projection": "ОрганизацииL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Отделы",
+  "name": "IISFINALОтделыE",
+  "className": "ОтделыE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-f-i-n-a-l-отделы",
+      "modelProjection": "ОтделыE"
+    }
+  ]
+}
